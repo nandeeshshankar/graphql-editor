@@ -1,0 +1,41 @@
+.main {
+  display: flex;
+}
+
+.button {
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  border: 1px solid blue;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  width: 55px;
+  font-size: 16px;
+}
+
+.main div:not([class]){
+  height: auto !important;
+}
+
+input {
+  display: none;
+}
+
+label {
+  margin-top: 30px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  background-color: blue;
+  color: white;
+  border: 1px solid blue;
+  border-radius: 10px;
+  font-size: 16px;
+}
+
+.stDiv {
+  height: 1000px !important;
+}

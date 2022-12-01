@@ -1,2 +1,1 @@
-# graphql-editor
-GraphQL Editor with reactJS
+# graphql-app
